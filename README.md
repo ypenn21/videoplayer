@@ -1,4 +1,4 @@
-# Run these to install all the python packages needed
+# Run these to install dependencies and run server
 pip3 install -r requirements.txt
 
 python3 manage.py runserver
